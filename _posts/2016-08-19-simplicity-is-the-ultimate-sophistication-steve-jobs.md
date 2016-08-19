@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-19T08:59:48.174Z'
+datePublished: '2016-08-19T09:01:15.899Z'
 sourcePath: _posts/2016-08-19-simplicity-is-the-ultimate-sophistication-steve-jobs.md
 author: []
 via: {}
-dateModified: '2016-08-19T08:59:47.291Z'
+dateModified: '2016-08-19T09:01:15.104Z'
 title: ''
 publisher: {}
 description: ''
