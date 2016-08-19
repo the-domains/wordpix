@@ -1,0 +1,14 @@
+layout_spectrum: 0.7267954857088625
+typography_spectrum: 0.055739954113960266
+color:
+  brandStrength: 0.9234677604399621
+  lightness: 0.033632732927799225
+  saturation: 0.609656808199361
+  rhythmicContrast: 0.9925857686903328
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: wordpix
