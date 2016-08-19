@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-19T09:22:51.854Z'
+datePublished: '2016-08-19T09:27:41.956Z'
 sourcePath: _posts/2016-08-19-little-by-little-one-travels-far-jrr-tolkien.md
 author: []
 via: {}
-dateModified: '2016-08-19T09:22:51.036Z'
+dateModified: '2016-08-19T09:27:41.186Z'
 title: ''
 publisher: {}
 description: 'travel verb make a journey, typically of some length'
@@ -14,6 +14,6 @@ inNav: false
 _type: MediaObject
 
 ---
-> **travel **_verb_**make a journey, typically of some length**
+> **travel **_verb _**make a journey, typically of some length**
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef0a1ebb-151a-4fcb-aa81-3ea25430dc5f.png)
