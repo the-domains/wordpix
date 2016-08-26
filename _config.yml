@@ -1,16 +1,16 @@
-layout_spectrum: 0.07652500015683472
-typography_spectrum: 0.8981827944517136
+layout_spectrum: 0.6887090629898012
+typography_spectrum: 0.6275443052873015
 color:
-  brandStrength: 0.17220123508013785
-  lightness: 0.9307960656005889
-  saturation: 0.12134364666417241
-  rhythmicContrast: 0.9782425097655505
+  brandStrength: 0.608733533648774
+  lightness: 0.37390895653516054
+  saturation: 0.6091158515773714
+  rhythmicContrast: 0.4571439013816416
   brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
 analytics:
   google: UA-81434823-1
 name: wordpix.in
