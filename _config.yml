@@ -1,4 +1,3 @@
-layout_spectrum: 0.6887090629898012
 typography_spectrum: 0.6275443052873015
 color:
   brandStrength: 0.608733533648774
@@ -11,7 +10,12 @@ color:
     - '#BDD4DE'
     - '#EFEFEF'
     - '#FF530D'
+github: true
+layout_spectrum: 0.6887090629898012
 analytics:
   google: UA-81434823-1
+author:
+  email: wordpix@gmail.com
 name: wordpix.in
 title: Words.   Pictures.   Thoughts.
+content: []
